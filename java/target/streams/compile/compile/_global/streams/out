@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/chris/Documents/MUCSSBot/java/src/main/java/App.java:20:1: incompatible types: try-with-resources not applicable to variable type[0m
+[0m[[0m[31merror[0m] [0m[0m    (java.lang.String cannot be converted to java.lang.AutoCloseable)[0m
+[0m[[0m[31merror[0m] [0m[0mString token = Files.readString(tokenPath)[0m
